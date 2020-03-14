@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test ARMO App", "Test ARMO App\Test ARMO App.csproj", "{23D3EB21-CAD2-4BD1-98EF-94B05B43622B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D3EB21-CAD2-4BD1-98EF-94B05B43622B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D3EB21-CAD2-4BD1-98EF-94B05B43622B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D3EB21-CAD2-4BD1-98EF-94B05B43622B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D3EB21-CAD2-4BD1-98EF-94B05B43622B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4B63FE5-0BAE-4A23-BB2B-63C86A1D9D87}
+	EndGlobalSection
+EndGlobal

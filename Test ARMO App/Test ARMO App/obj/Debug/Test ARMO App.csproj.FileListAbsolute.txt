@@ -1,0 +1,10 @@
+C:\Users\FriSha\Desktop\Test ARMO App\Test ARMO App\Test ARMO App\bin\Debug\Test ARMO App.exe.config
+C:\Users\FriSha\Desktop\Test ARMO App\Test ARMO App\Test ARMO App\bin\Debug\Test ARMO App.exe
+C:\Users\FriSha\Desktop\Test ARMO App\Test ARMO App\Test ARMO App\bin\Debug\Test ARMO App.pdb
+C:\Users\FriSha\Desktop\Test ARMO App\Test ARMO App\Test ARMO App\obj\Debug\Test ARMO App.csprojAssemblyReference.cache
+C:\Users\FriSha\Desktop\Test ARMO App\Test ARMO App\Test ARMO App\obj\Debug\Test_ARMO_App.Properties.Resources.resources
+C:\Users\FriSha\Desktop\Test ARMO App\Test ARMO App\Test ARMO App\obj\Debug\Test ARMO App.csproj.GenerateResource.cache
+C:\Users\FriSha\Desktop\Test ARMO App\Test ARMO App\Test ARMO App\obj\Debug\Test ARMO App.csproj.CoreCompileInputs.cache
+C:\Users\FriSha\Desktop\Test ARMO App\Test ARMO App\Test ARMO App\obj\Debug\Test ARMO App.exe
+C:\Users\FriSha\Desktop\Test ARMO App\Test ARMO App\Test ARMO App\obj\Debug\Test ARMO App.pdb
+C:\Users\FriSha\Desktop\Test ARMO App\Test ARMO App\Test ARMO App\obj\Debug\Test_ARMO_App.Form1.resources
